@@ -1,0 +1,22 @@
+{
+  "name": "npm_test_belogolovm",
+  "version": "1.0.0",
+  "description": "Test npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/belogolovm/npm.git"
+  },
+  "author": "Belogolov Michael",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/belogolovm/npm/issues"
+  },
+  "homepage": "https://github.com/belogolovm/npm#readme",
+  "dependencies": {
+    "jquery": "^3.6.0"
+  }
+}
